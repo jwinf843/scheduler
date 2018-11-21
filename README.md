@@ -4,7 +4,7 @@ To run: from the command line type: `./scheduler.py math.json` or `./scheduler.p
 
 
 ---------------
-(original instruction below.. I know I didn't update the README as they specified)
+(Prompt below..)
 
 Imagine you are a student and you have a list of courses you want to take. Many of these courses have prerequisites which you must take before you can take that course. Your task is to write a program that finds an order that you can take each of the courses where all the prerequisites are satisfied.
 
